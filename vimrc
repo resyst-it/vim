@@ -22,7 +22,7 @@ Plugin 'klen/python-mode'
 Plugin 'cburroughs/pep8.py'
 Plugin 'Yggdroot/indentLine'
 
-call vundle#begin()
+call vundle#end()
 filetype plugin indent on
 
 "IndentLine Vim
